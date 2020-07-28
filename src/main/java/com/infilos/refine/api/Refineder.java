@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Supplier;
 
 /**
- * @author zhiguang.zhang on 2020-06-13.
+ * @author infilos on 2020-06-13.
  */
 
 public class Refineder<T> {

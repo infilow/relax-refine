@@ -7,7 +7,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
- * @author zhiguang.zhang on 2020-06-13.
+ * @author infilos on 2020-06-13.
  */
 
 public class RefineResult {

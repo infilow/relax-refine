@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.function.Predicate;
 
 /**
- * @author zhiguang.zhang on 2020-07-24.
+ * @author infilos on 2020-07-24.
  */
 
 public final class Maps {

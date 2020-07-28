@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author zhiguang.zhang on 2020-06-13.
+ * @author infilos on 2020-06-13.
  *
  * Implement this interface to provide check logic for the value of type T.
  */

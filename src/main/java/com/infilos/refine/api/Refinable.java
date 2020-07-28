@@ -3,7 +3,7 @@ package com.infilos.refine.api;
 import javax.annotation.Nullable;
 
 /**
- * @author zhiguang.zhang on 2020-06-13.
+ * @author infilos on 2020-06-13.
  *
  * Implement this interface to make a bean become refinable.
  */

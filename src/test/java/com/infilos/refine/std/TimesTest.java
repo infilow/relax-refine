@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 import static org.junit.Assert.assertTrue;
 
 /**
- * @author zhiguang.zhang on 2020-07-25.
+ * @author infilos on 2020-07-25.
  */
 
 public class TimesTest {
