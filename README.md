@@ -2,6 +2,8 @@
 
 Simple variable and bean verify toolkit, without any annotation.
 
+Please check the [documents](https://relax.infilos.com/relax-refine/index.html) for more detail.
+
 ## Usage
 
 ```
