@@ -189,7 +189,7 @@
                             <jreleaser>
                                 <release>
                                     <github>
-                                        <owner>infilos</owner>
+                                        <overwrite>true</overwrite>
                                     </github>
                                 </release>
                             </jreleaser>
